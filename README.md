@@ -1,3 +1,6 @@
+#**_As of Nov 20, 2016 all development of this project has moved to the [Official OneBusAway for Pebble project](https://github.com/OneBusAway/onebusaway-pebbletime)._**
+
+
 # OneBusAway for Pebble
 
 <img src="/screenshots/basicdemo.gif" alt="Full demo" width="144">
@@ -41,3 +44,4 @@ OneBusAway for Pebble smart watches provides a OneBusAway experience tailored to
 
 ## Running / Installing
 Install as normal for pebble apps (i.e. `pebble install --emulator=basalt`)
+~~
